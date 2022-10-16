@@ -27,8 +27,8 @@ We develope games.
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Split World Trailer](https://ytcards.demolab.com/?id=GnkO6Va3NJo&title=Split+World+Trailer&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "Split World Trailer")](https://www.youtube.com/watch?v=GnkO6Va3NJo)
-[![How to play Ebuc AKA "3 in row in 3d"](https://ytcards.demolab.com/?id=9OV5jzQ5j-4&title=How+to+play+Ebuc?!&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "How to play Ebuc AKA \"3 in row in 3d\"")](https://www.youtube.com/watch?v=9OV5jzQ5j-4)
+[![Split World Trailer](https://ytcards.demolab.com/?id=GnkO6Va3NJo&title=Split+World+Trailer&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=52 "Split World Trailer")](https://www.youtube.com/watch?v=GnkO6Va3NJo)
+[![How to play Ebuc AKA "3 in row in 3d"](https://ytcards.demolab.com/?id=9OV5jzQ5j-4&title=How+to+play+Ebuc?!&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=70 "How to play Ebuc AKA \"3 in row in 3d\"")](https://www.youtube.com/watch?v=9OV5jzQ5j-4)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC4bGahX85fJYoVTVtk_vhCg)
