@@ -37,15 +37,15 @@ We develope games.
 
 ### 📊 Stats
 
-![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorik&show_icons=true&theme=tokyonight&repo=GGJ)
-![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art19em04&show_icons=true&theme=tokyonight&repo=GGJ)
-![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=twistedomelette&show_icons=true&theme=tokyonight&repo=GGJ)
-![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=epic-pigeon&show_icons=true&theme=tokyonight&repo=GGJ)
+![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorik&repo=GGJ&show_icons=true&theme=tokyonight)
+![Art19em04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art19em04&repo=GGJ&show_icons=true&theme=tokyonight)
+![twistedomelette's GitHub stats](https://github-readme-stats.vercel.app/api?username=twistedomelette&repo=GGJ&show_icons=true&theme=tokyonight)
+![epic-pigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=epic-pigeon&repo=GGJ&show_icons=true&theme=tokyonight)
 
 #
 
 <details>
- <summary><h3>👨‍💻 About us</h3></summary>
+ <summary><h3>About us</h3></summary>
    kar
 
 [youtube]: https://www.youtube.com/channel/UC4bGahX85fJYoVTVtk_vhCg
