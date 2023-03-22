@@ -36,15 +36,6 @@ We develope games.
 
 #
 
-### 📊 Stats
-
-![professorik's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorik&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_rank=true)
-![Art19em04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art19em04&repo=GGJ&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_rank=true)
-![twistedomelette's GitHub stats](https://github-readme-stats.vercel.app/api?username=twistedomelette&repo=GGJ&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_rank=true)
-![epic-pigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=epic-pigeon&repo=GGJ&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_rank=true)
-
-#
-
 <details>
  <summary><h3>About us</h3></summary>
    kar
