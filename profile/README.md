@@ -2,7 +2,7 @@
 
 **`Games Studio`**
 
-We develope games.
+We develop games.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UC4bGahX85fJYoVTVtk_vhCg">
